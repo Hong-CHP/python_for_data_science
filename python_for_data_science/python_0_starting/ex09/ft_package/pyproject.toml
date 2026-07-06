@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ft_package"
+version = "0.0.1"
+description = "A sample test package"
+authors = [
+    {name = "hporta-c", email = "hporta-c@42.fr"}
+]
+license = {text = "MIT"}
+
+[project.urls]
+Homepage = "https://github.com/Hong-CHP/python_basic/python_0_starting/ex09/ft_package"
